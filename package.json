@@ -1,0 +1,18 @@
+{
+  "name": "hyper-yonce",
+  "version": "0.0.4",
+  "description": "A Queen Bey inspired theme for hyper",
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "terminal",
+    "term",
+    "theme"
+  ],
+  "author": "WheresAlice",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "repository": "WheresAlice/hyper-yonce"
+}
